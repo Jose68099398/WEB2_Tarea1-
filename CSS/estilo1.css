@@ -1,0 +1,20 @@
+body{
+    background-color: purple;
+}
+h1{
+    color: red;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    background-color: yellow;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+.prueba{
+    background-color: blue;}
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px
