@@ -1,1 +1,1 @@
-alert("el que pone aceptar se la re come");
+alert("hola soy Jose Sullca Mamani y esta es mi tarea numero 1");
